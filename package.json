@@ -4,7 +4,6 @@
   "description": "It is a To-Do list to set reminders",
   "main": "app.js",
   "scripts": {
-    "build": "npm build",
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
